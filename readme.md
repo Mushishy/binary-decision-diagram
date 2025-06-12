@@ -3,5 +3,5 @@
 Binary decision diagram using various reductions for minimal number of nodes in C language.
 
 <p align="center">
-  <img src="./documentation/bdd.png" />
+  <img src="./documentation/bdd.PNG" />
 </p>
